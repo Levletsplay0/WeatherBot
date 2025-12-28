@@ -10,6 +10,11 @@
 
 
 
+
+
+
+
+
 ![Screenshot2](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png)
 
 ---
