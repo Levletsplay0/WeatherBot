@@ -39,7 +39,7 @@
 1. **Клонируйте репозиторий:**
    ```bash
    git clone https://github.com/Levletsplay0/WeatherBot
-   cd telegram-weather-bot
+   cd WeatherBot
 2. **Установите зависимости:**
    ```bash
    pip install -r requirements.txt
