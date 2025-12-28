@@ -1,1 +1,1 @@
-# WeatherBot
+# Исходный код телеграм бота: @weather136_bot
