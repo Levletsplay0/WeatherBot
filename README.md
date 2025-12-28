@@ -38,3 +38,6 @@
    ```bash
    git clone https://github.com/ваш-никнейм/telegram-weather-bot.git
    cd telegram-weather-bot
+2. **Установите зависимости:**
+   ```bash
+   pip install -r requirements.txt
