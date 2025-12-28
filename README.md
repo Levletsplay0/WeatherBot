@@ -7,8 +7,9 @@
 ## 📸 Скриншоты
 
 ![Screenshot1](https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png)
-\n
-\n
+
+
+
 ![Screenshot2](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png)
 
 ---
