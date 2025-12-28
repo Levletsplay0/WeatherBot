@@ -6,7 +6,7 @@
 
 ## 📸 Скриншоты
 
-![Пример работы бота](https://via.placeholder.com/600x400?text=Weather+Bot+Demo)
+![Пример работы бота](https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png)
 
 > Главное меню бота
 
