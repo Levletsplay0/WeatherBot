@@ -1,4 +1,4 @@
-<img width="1231" height="472" alt="image" src="https://github.com/user-attachments/assets/0ce7b3d6-2e21-4cd7-809a-e1d84eaad192" /># 🌤️ Telegram Weather Bot
+# 🌤️ Telegram Weather Bot
 
 Простой, но функциональный Telegram-бот для получения актуальной информации о погоде в любом городе мира.
 
@@ -6,8 +6,8 @@
 
 ## 📸 Скриншоты
 
-!(https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png)
-!(https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png)
+![Screenshot1](https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png)
+![Screenshot2](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png)
 
 ---
 
