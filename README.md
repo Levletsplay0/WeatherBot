@@ -8,13 +8,6 @@
 
 ![Screenshot1](https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png)
 
-
-
-
-
-
-
-
 ![Screenshot2](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png)
 
 ---
@@ -48,3 +41,9 @@
 2. **Установите зависимости:**
    ```bash
    pip install -r requirements.txt
+3. **Добавьте токены open weathermap и telegrambot в файл: tokens.json**
+      ```bash
+   {
+    "bot_token": "*****",
+    "weather_token": "*****"
+   }
