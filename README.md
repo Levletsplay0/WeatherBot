@@ -46,6 +46,6 @@
 3. **Добавьте токены OpenWeatherMap и TelegramBotApi в файл: tokens.json**
       ```bash
    {
-    "bot_token": "*****",
-    "weather_token": "*****"
+      "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+      "weather_token": "YOUR_OPENWEATHERMAP_API_KEY"
    }
