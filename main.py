@@ -193,12 +193,16 @@ def send_weather():
             conn.close()
 
             for user in users:
-                chat_id = user[2]
-                latitude = user[5]
-                longitude = user[6]
+                try:
+                    chat_id = user[2]
+                    latitude = user[5]
+                    longitude = user[6]
 
-                msg = get_weather(latitude, longitude)
-                bot.send_message(chat_id, msg, parse_mode="Markdown")
+                    msg = get_weather(latitude, longitude)
+                    bot.send_message(chat_id, msg, parse_mode="Markdown")
+                except Exception as ex:
+                    print(f"Ошибка отправки уведомления: {ex}")
+
     except Exception as ex:
         print(f"Ошибка: {ex}")
 
