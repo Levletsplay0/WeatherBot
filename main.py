@@ -222,7 +222,8 @@ def start(message):
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         btn1 = types.KeyboardButton("👤 Профиль")
         btn2 = types.KeyboardButton("⛅ Получить погоду сейчас")
-        markup.add(btn1, btn2)
+        btn3 = types.KeyboardButton("📅 Прогноз на 24ч")
+        markup.add(btn1, btn2, btn3)
         bot.send_message(message.chat.id, f"Выберите действие", reply_markup=markup)    
 
     
