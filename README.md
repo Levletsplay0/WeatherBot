@@ -29,6 +29,7 @@
   - `telebot`
   - `requests`
   - `sqlite3`
+  - `threading`
   - `datetime и time`
 - **API погоды**: [OpenWeatherMap](https://openweathermap.org/api)
 
