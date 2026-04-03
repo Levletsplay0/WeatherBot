@@ -6,13 +6,14 @@ from datetime import datetime, timezone, timedelta
 import time
 import threading
 import json
+import os
 
+bot_token = os.getenv("BOT_TOKEN")
+weather_token = os.getenv("WEATHER_TOKEN")
 
-with open("tokens.json", "r") as f:
-    tokens = json.load(f)
+if not bot_token or not weather_token:
+    raise RuntimeError("🔑 Токены не найдены! Проверь .env файл")
 
-bot_token = tokens["bot_token"]
-weather_token = tokens["weather_token"]
 
 
 bot = telebot.TeleBot(bot_token)
