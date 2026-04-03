@@ -44,9 +44,7 @@
 2. **Установите зависимости:**
    ```bash
    pip install -r requirements.txt
-3. **Добавьте токены OpenWeatherMap и TelegramBotApi в файл: tokens.json**
-      ```json
-   {
-       "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
-       "weather_token": "YOUR_OPENWEATHERMAP_API_KEY"
-   }
+3. **Добавьте токены OpenWeatherMap и TelegramBotApi в файл: .env**
+      ```.env
+BOT_TOKEN=...
+WEATHER_TOKEN=...
