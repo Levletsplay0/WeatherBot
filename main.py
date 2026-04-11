@@ -11,7 +11,7 @@ bot_token = os.getenv("BOT_TOKEN")
 weather_token = os.getenv("WEATHER_TOKEN")
 
 if not bot_token or not weather_token:
-    raise RuntimeError("🔑 Токены не найдены! Проверь .env файл")
+    raise RuntimeError("Токены не найдены, создай .env файл")
 
 
 bot = telebot.TeleBot(bot_token)
