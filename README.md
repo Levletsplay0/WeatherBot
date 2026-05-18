@@ -6,11 +6,11 @@
 
 ## 📸 Скриншоты
 
-![Screenshot1](https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png)
+![Screenshot1](screenshots/s_1.png)
 
-![Screenshot2](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png)
+![Screenshot2](screenshots/s_2.png)
 
-![Screenshot3](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%203.png)
+![Screenshot3](screenshots/s_3.png)
 
 ---
 
